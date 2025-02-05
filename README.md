@@ -1,3 +1,5 @@
+![My Cool GIF](https://github.com/khadija-urmi/khadija-urmi/blob/main/mylogo.gif)
+
 # 💫 About Me:
 🔭 I’m currently working on: Pet Adoption Website<br><br><br>🌱 I’m currently learning:<br>React, Vite, Tailwind CSS,Node JS<br><br>💬 Ask me about:<br>React, Vite,Tailwind, and DaisyUi<br><br>📫 How to reach me:<br>khadija5jahan211@gmail.com<br><br>⚡ Fun fact:<br>I think I am funny… or at least I try to be!<br><br>
 
