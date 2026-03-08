@@ -1,18 +1,104 @@
-![My Cool GIF](https://github.com/khadija-urmi/khadija-urmi/blob/main/mylogo.gif)
 
-# 💫 About Me:
-🔭 I’m currently working on: Pet Adoption Website<br><br><br>🌱 I’m currently learning:<br>React, Vite, Tailwind CSS,Node JS<br><br>💬 Ask me about:<br>React, Vite,Tailwind, and DaisyUi<br><br>📫 How to reach me:<br>khadija5jahan211@gmail.com<br><br>⚡ Fun fact:<br>I think I am funny… or at least I try to be!<br><br>
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=khadija-urmi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khadija-urmi&theme=dark)](https://git.io/streak-stats)
+<h1 align="center">Hi 👋, I'm Khadija Urmi</h1>
 
+<h3 align="center">Frontend Developer | MERN Stack Developer</h3>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Developer;React+%7C+Vite+%7C+Tailwind;Building+Modern+Web+Applications" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=khadija-urmi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👩‍💻 About Me
+
+- 🔭 Currently working on: **Pet Adoption Website**
+- 🌱 Currently learning: **Next.js, Bootsrap, Typescript**
+- 💻 Passionate about building **responsive and user-friendly web apps**
+- 📖 Always exploring **new web technologies**
+- 🎯 Goal: Become a **Full Stack MERN Developer**
+- ⚡ Fun Fact: Sometimes CSS works… sometimes it has its own mood 😄
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/khadija-urmi-173237183/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/khadija-urmi">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Frontend
+
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![React](https://skillicons.dev/icons?i=react)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Vite](https://skillicons.dev/icons?i=vite)
+
+### Backend
+
+![Node](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+### Tools
+
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![Netlify](https://skillicons.dev/icons?i=netlify)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![Figma](https://skillicons.dev/icons?i=figma)
+![Git](https://skillicons.dev/icons?i=git)
+
+---
+
+
+
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=khadija-urmi&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=khadija-urmi&theme=tokyonight" />
+
+</p>
+
+---
+
+---
+
+# ✍️ Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+---
+
+# 📈 GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khadija-urmi&theme=tokyo-night" />
+
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khadija-urmi/khadija-urmi/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+# 👀 Profile Views
+
+<img src="https://visitcount.itsvg.in/api?id=khadija-urmi&icon=0&color=0" />
