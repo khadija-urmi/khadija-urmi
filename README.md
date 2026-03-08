@@ -18,7 +18,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F472B6&center=true&vCenter=true&width=520&lines=Frontend+Developer;MERN+Stack+Web+Developer;React+%7C+Vite+%7C+Tailwind+CSS;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F472B6&center=true&vCenter=true&width=520&lines=Frontend+Developer;MERN+Stack+Web+Developer;React+%7C+Tailwind+%7C+Node.js;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 
 </div>
 
@@ -29,42 +29,20 @@
 I'm a **passionate Frontend Developer** who enjoys building modern, responsive, and user-friendly web applications.
 
 - 🔭 Currently working on **Pet Adoption Platform**
-- 🌱 Currently learning **Next.js, TypeScript, and advanced React patterns**
+- 🌱 Currently learning **Next.js, TypeScript**
 - 💡 Interested in **Full Stack MERN Development**
-- 🎯 Goal: Build **scalable full-stack web applications**
-- ⚡ Fun fact: Sometimes CSS behaves like magic… sometimes like chaos 😄
+- 🎯 Goal: Build **scalable web applications**
+- ⚡ Fun fact: CSS sometimes behaves like magic 😄
 
 ---
 
 # 🚀 Tech Stack
 
-<table>
-<tr>
-<td align="center" width="33%">
+<div align="center">
 
-### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,nodejs,express,mongodb,firebase,git,github,figma,vercel,netlify"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
-
-</td>
-
-<td align="center" width="33%">
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-
-</td>
-
-<td align="center" width="33%">
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,figma,vercel,netlify,canva" />
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -72,15 +50,25 @@ I'm a **passionate Frontend Developer** who enjoys building modern, responsive, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=khadija-urmi&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=khadija-urmi&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=khadija-urmi&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=khadija-urmi&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Top Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadija-urmi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📉 GitHub Activity Graph
 
 <div align="center">
 
@@ -100,7 +88,7 @@ I'm a **passionate Frontend Developer** who enjoys building modern, responsive, 
 
 ---
 
-# ✨ Random Dev Quote
+# ✨ Dev Quote
 
 <div align="center">
 
@@ -110,10 +98,10 @@ I'm a **passionate Frontend Developer** who enjoys building modern, responsive, 
 
 ---
 
+# 👀 Profile Views
+
 <div align="center">
 
-### 👀 Profile Views
-
-<img src="https://visitcount.itsvg.in/api?id=khadija-urmi&icon=0&color=6"/>
+<img src="https://komarev.com/ghpvc/?username=khadija-urmi&style=for-the-badge&color=blue"/>
 
 </div>
