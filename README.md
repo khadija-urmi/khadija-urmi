@@ -1,104 +1,110 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Khadija Urmi</h1>
+# Hi, I'm Khadija Urmi
 
-<h3 align="center">Frontend Developer | MERN Stack Developer</h3>
+### Frontend & MERN Stack Developer
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Developer;React+%7C+Vite+%7C+Tailwind;Building+Modern+Web+Applications" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khadija-urmi-173237183/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khadija-urmi)
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=React+%7C+TypeScript+%7C+Node.js;Building+responsive+web+applications;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
-# 👩‍💻 About Me
-
-- 🔭 Currently working on: **Pet Adoption Website**
-- 🌱 Currently learning: **Next.js, Bootsrap, Typescript**
-- 💻 Passionate about building **responsive and user-friendly web apps**
-- 📖 Always exploring **new web technologies**
-- 🎯 Goal: Become a **Full Stack MERN Developer**
-- ⚡ Fun Fact: Sometimes CSS works… sometimes it has its own mood 😄
+</div>
 
 ---
 
-# 🌐 Connect With Me
+## About Me
 
-<p align="left">
+I'm a **web developer** focused on the frontend and the MERN stack. I build responsive, accessible applications and keep my stack and practices up to date.
 
-<a href="https://www.linkedin.com/in/khadija-urmi-173237183/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/khadija-urmi">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-</p>
+- **Current focus:** Pet adoption platform and modernizing my React/TypeScript workflow  
+- **Learning:** Next.js, TypeScript, and design systems  
+- **Goal:** Ship production-ready full-stack apps and grow as a MERN developer  
+- **Fun fact:** I treat CSS as a feature, not an afterthought.
 
 ---
 
-# 💻 Tech Stack
+## Tech Stack
 
-### Frontend
+<table>
+<tr>
+<td align="center" width="33%">
 
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![React](https://skillicons.dev/icons?i=react)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Vite](https://skillicons.dev/icons?i=vite)
+**Frontend**
 
-### Backend
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,vite" alt="Frontend" />
 
-![Node](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
+</td>
+<td align="center" width="33%">
 
-### Tools
+**Backend**
 
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![Netlify](https://skillicons.dev/icons?i=netlify)
-![Vercel](https://skillicons.dev/icons?i=vercel)
-![Figma](https://skillicons.dev/icons?i=figma)
-![Git](https://skillicons.dev/icons?i=git)
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend" />
 
----
+</td>
+<td align="center" width="33%">
 
+**Tools & Deploy**
 
+<img src="https://skillicons.dev/icons?i=git,figma,firebase,vercel,netlify" alt="Tools" />
 
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=khadija-urmi&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=khadija-urmi&theme=tokyonight" />
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
----
+## GitHub Stats
 
-# ✍️ Random Dev Quote
+<div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=khadija-urmi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=khadija-urmi&theme=tokyonight&hide_border=true" alt="Streak" height="165" />
 
----
-
-# 📈 GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khadija-urmi&theme=tokyo-night" />
-
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/khadija-urmi/khadija-urmi/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+</div>
 
 ---
 
-# 👀 Profile Views
+## Contribution Graph
 
-<img src="https://visitcount.itsvg.in/api?id=khadija-urmi&icon=0&color=0" />
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khadija-urmi&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khadija-urmi/khadija-urmi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khadija-urmi/khadija-urmi/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/khadija-urmi/khadija-urmi/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
+</picture>
+
+*Generated with [Platane/snk](https://github.com/Platane/snk). Run the **Generate Snake** workflow under Actions if the snake does not appear.*
+
+</div>
+
+---
+
+## Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Profile views
+
+<img src="https://visitcount.itsvg.in/api?id=khadija-urmi&icon=0&color=6" alt="Profile views" />
+
+</div>
