@@ -79,13 +79,9 @@ I'm a **web developer** focused on the frontend and the MERN stack. I build resp
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khadija-urmi/khadija-urmi/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khadija-urmi/khadija-urmi/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/khadija-urmi/khadija-urmi/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
-</picture>
+<img src="https://raw.githubusercontent.com/khadija-urmi/khadija-urmi/main/assets/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
 
-*Generated with [Platane/snk](https://github.com/Platane/snk). Run the **Generate Snake** workflow under Actions if the snake does not appear.*
+*Your real contribution snake can be auto-generated: run the **Generate Snake** workflow in the [Actions](https://github.com/khadija-urmi/khadija-urmi/actions) tab ([Platane/snk](https://github.com/Platane/snk)).*
 
 </div>
 
