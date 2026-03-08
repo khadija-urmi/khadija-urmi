@@ -1,34 +1,29 @@
 <div align="center">
-
-# 👋 Hi, I'm Khadija Urmi
-
-### 💻 Frontend Developer | MERN Stack Learner
-
-<a href="https://www.linkedin.com/in/khadija-urmi-173237183/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/khadija-urmi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:khadija5jahan211@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F472B6&center=true&vCenter=true&width=520&lines=Frontend+Developer;MERN+Stack+Web+Developer;React+%7C+Tailwind+%7C+Node.js;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
-
+  <img src="github_cover.png" alt="Cover" width="100%" />
 </div>
 
----
+
+<h2 align="center">Hey 👋 I'm Khadija Urmi</h2>
+
+<div align="flat">
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=818CF8&center=true&vCenter=true&width=520&lines=React+%7C+Tailwind+%7C+Node.js;Responsive+UI+%7C+Modern+Frontend;Building+user-friendly+web+apps" alt="Typing" />
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khadija-urmi-173237183/)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/khadija_urmi08)
+  [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/khadija_urmi)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=khadija-urmi&style=flat-square&color=6366f1" alt="Profile views" />
+</div>
+</div>
 
 # 👩‍💻 About Me
 
 I'm a **passionate Frontend Developer** who enjoys building modern, responsive, and user-friendly web applications.
 
-- 🔭 Currently working on **Pet Adoption Platform**
+- 🔭 Currently working on **Educational Online Platform**
 - 🌱 Currently learning **Next.js, TypeScript**
 - 💡 Interested in **Full Stack MERN Development**
 - 🎯 Goal: Build **scalable web applications**
@@ -36,50 +31,57 @@ I'm a **passionate Frontend Developer** who enjoys building modern, responsive, 
 
 ---
 
-# 🚀 Tech Stack
+---
 
+## Tech Stack
+
+### Frontend
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" alt="Frontend" />
+</div>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,nodejs,express,mongodb,firebase,git,github,figma,vercel,netlify"/>
+### Backend & Data
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend" />
+</div>
 
+### Tools & Deploy
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,netlify" alt="Tools" />
 </div>
 
 ---
 
-# 📊 GitHub Stats
+## Stats
 
 <div align="center">
-<div align="center">
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=khadija-urmi&theme=tokyonight&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
-
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadija-urmi&theme=tokyonight&hide_border=true" alt="Streak" height="165" />
 </div>
 
 
+---
+
+## Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khadija-urmi&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
 
-
-# ✨ Dev Quote
+## Contribution Graph
 
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/khadija-urmi/khadija-urmi/output/pacman-contribution-graph-dark.svg" width="100%" />
 </div>
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
 
-# 👀 Profile Views
+## Dev Quote
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=khadija-urmi&style=for-the-badge&color=blue"/>
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </div>
+
+---
