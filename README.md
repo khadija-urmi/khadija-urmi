@@ -49,44 +49,17 @@ I'm a **passionate Frontend Developer** who enjoys building modern, responsive, 
 # 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=khadija-urmi&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=khadija-urmi&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Top Languages
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadija-urmi&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=khadija-urmi&theme=tokyonight&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
+
+</div>
+
 
 </div>
 
 ---
 
-# 📉 GitHub Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khadija-urmi&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/khadija-urmi/khadija-urmi/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
 
 # ✨ Dev Quote
 
@@ -97,6 +70,11 @@ I'm a **passionate Frontend Developer** who enjoys building modern, responsive, 
 </div>
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
 # 👀 Profile Views
 
